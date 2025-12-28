@@ -11,3 +11,8 @@
 login이 뜨면 login진행하고 처리하면 됨.
 
 서로 다른 시스템에서 동기화 하기
+
+left 파일 추가
+
+push는 동기화를 위해서 upload하는 것이고
+pull은 기존 동기화된 부분을 download하는 것임
